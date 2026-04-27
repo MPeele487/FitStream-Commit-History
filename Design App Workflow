@@ -1,1 +1,14 @@
+1. User clicks on link
+
+2. User allows camera access
+
+3. User watches the live motion tracking analysis of their body features. 
+There will be circles on joints and lines that connect them accordingly.
+
+4. User views popups with feedback: ““Keep elbow under the ball”, “Bend knees more”, “Good follow-through”,  
+“Shoulders not aligned”. These feedback will all layer as objects in the top right of the screen. 
+They pop up when an algorithm is set. They disappear if form is satisfactory.
+If all popups are gone, a popup shows in green, stating their form is satisfactory (good form!)
+
+5. User is free to exit out the link
 
